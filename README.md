@@ -24,14 +24,13 @@ account info, subscribed services). Source: IBM sample dataset.
 - Fiber optic internet customers show higher churn than DSL customers
 
 ## Results
-_Run `notebook.ipynb` and paste your own numbers here — they'll vary
-slightly by environment/library version._
+
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC |
 |---|---|---|---|---|---|
-| Logistic Regression | | | | | |
-| Decision Tree | | | | | |
-| Random Forest | | | | | |
+| Logistic Regression | 0.797 | 0.642 | 0.537 | 0.585 | 0.838 |
+| Decision Tree | 0.786 | 0.612 | 0.532 | 0.569 | 0.817 |
+| Random Forest | 0.790 | 0.634 | 0.500 | 0.559 | 0.834 |
 
 ## How to Run
 ```bash
