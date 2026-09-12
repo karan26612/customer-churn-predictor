@@ -2,5 +2,5 @@
 __pycache__/
 *.pyc
 .DS_Store
-churn_model.pkl
-scaler.pkl
+venv/
+.venv/
