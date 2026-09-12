@@ -52,7 +52,7 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter
 ## How to Run
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-predictor.git
+git clone https://github.com/karan26612/customer-churn-predictor.git
 cd customer-churn-predictor
 pip install -r requirements.txt
 ```
